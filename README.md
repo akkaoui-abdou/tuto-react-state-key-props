@@ -21,13 +21,16 @@ npm init react-app my-app
 
 
 
-First step start your app react 
+Second step start your app react 
 ---
 
 for start your app in react use this commande in Terminal:
 
 npm start
 
+
+in file App.js add the script below 
+---
 
 
 ```javascript
