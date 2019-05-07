@@ -1,5 +1,11 @@
-Simple Tutorial in react how to use props, state, setState, key (in delete function)
+Simple Tutorial in react explain how to use props, state, setState, key (in delete function)
 ===
+
+Demo
+---
+
+
+![alt text](https://github.com/akkaoui-abdou/tuto-react-state-key-props/blob/master/Demo.png)
 
 props
 state
