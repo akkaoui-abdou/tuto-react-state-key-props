@@ -6,8 +6,6 @@ state
 setState
 key
 
-
-
 First step install react 
 ---
 
