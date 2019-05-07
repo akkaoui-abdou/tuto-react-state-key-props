@@ -36,9 +36,6 @@ in file App.js add the script below
 ```javascript
 
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-
 
 
 class App extends Component{
