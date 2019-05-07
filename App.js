@@ -1,23 +1,16 @@
 import React, { Component } from 'react';
 
+
 class App extends Component{
   constructor(){
      super();
-
-/*
-     this.state = {
-       data: [1,2,3,4,5]
-     }
-
-*/
-
-
-this.state = {employer: [
-  {id:100,name:'AKKAOUI',age:36},
-  {id:101,name:'JEBBOURI',age:26},
-  {id:102,name:'ALAOUI',age:22},
-  {id:103,name:'AMRAOUI',age:43},
-]
+     this.state = {employer: [
+      {id:100,name:'LIONEL MESSI',age:36},
+      {id:101,name:'CRISTIANO RONALDO',age:26},
+      {id:102,name:'MOHAMED SALAH',age:22},
+      {id:103,name:'IDIN HAZARD',age:43},
+    ]
+    
 
 }
 
